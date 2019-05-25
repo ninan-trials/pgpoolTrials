@@ -1,0 +1,27 @@
+{
+  articles: [
+    {
+      article_id: 128081,
+      order_id: -1,
+      component_id: 1,
+      order_option: "CEDI",
+      consuming_department_id: 13,
+      belongs_to_order: false,
+      proposed: false,
+      calculated_edd: "2017-08-31",
+      validation_type: "ERROR",
+      validation_reason: "ARTICLE_NOT_ORDERED_THROUGH_CURRENT_SELECTED_DC",
+      mandatory: false,
+      sequence_number: 0,
+      article_name: "BIANCO IGT BOTTEBUONA",
+      promo_code_set: false,
+      pieces_per_package: 6,
+      packages: 10,
+      pieces: 60,
+      quantity: 10,
+      type_of_ordered_quantity: "C",
+      type_of_free_quantity: "C"
+    }
+  ],
+  orders: []
+}
